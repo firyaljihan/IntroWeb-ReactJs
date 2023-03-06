@@ -75,7 +75,7 @@ class TentangSaya extends React.Component {
               </div>
             </div>
             <div class="col-lg-6 ">
-              <div class="md:mt-40 md:ml-52 text-2xl">
+              <div class="md:mt-40 md:ml-52 text-sm md:text-xl">
                 {/* <div id="about"/> */}
                 <div className="container">
                   <div className="row">

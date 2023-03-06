@@ -1,12 +1,10 @@
 import React from 'react';
-import { Utama } from 'react-router-dom';
-
 
 function Nav() {
   return (
     <div>
       <header className="p-4 bg-rose-400 text-white">
-	<div className="container flex justify-between h-16 mx-auto">
+	<div className="container flex justify-between h-16 mx-auto ">
 		<a rel="noopener noreferrer" href="/" aria-label="Back to homepage" className="flex items-center p-2 font-bold text-3xl hover:text-rose-200 hover:no-underline">
 		IntroWeb
 		</a>
